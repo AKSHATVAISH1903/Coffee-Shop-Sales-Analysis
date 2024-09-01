@@ -58,12 +58,5 @@ This project involves analyzing coffee shop sales data to derive insights and tr
    - **Top 10 Products by Sales:** Displays the top 10 best-selling products.
    - **Sales by Days and Hours:** Uses a heat map to visualize sales patterns by days and hours.
 
-## How to Use This Project
-1. Clone the repository.
-2. Set up the MySQL database and import the provided SQL scripts.
-3. Open the PowerBI file to view and interact with the visualizations.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
